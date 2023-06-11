@@ -14,7 +14,7 @@
 - 👀 I’m interested in Embedded Systems, C programming, Embedded C, interfacing with different microcontrollers, OS and RTOS. 
 - 🌱 I’m currently learning Embedded Systems and Software design.
 - 💞️ I’m looking to collaborate on Embedded systems projects.
-- 📫 How to reach me ...>
+- 📫 How to reach me **mohammedelsayed013@gmail.com**
 
 <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20> Contact Me</h2>
 
