@@ -11,7 +11,7 @@
 </p> 
 
 - 👋 Hi, I’m an Embedded Software Engineer.
-- 👀 I’m interested in Embedded Systems, C/C++ programming, Embedded C, interfacing with different microcontrollers, OS and RTOS. 
+- 👀 I’m interested in Embedded Systems, C/C++ programming, Python, interfacing with different microcontrollers, and RTOS. 
 - 💞️ I’m looking to collaborate on Embedded systems projects.
 - 📫 How to reach me **mohammedelsayed013@gmail.com**
 
